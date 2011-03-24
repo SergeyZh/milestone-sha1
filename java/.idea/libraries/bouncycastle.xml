@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bouncycastle">
+    <CLASSES>
+      <root url="jar://C:/Java/bouncycastle/bcprov-jdk16-146.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/Java/bouncycastle/bcprov-jdk16-146/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Java/bouncycastle/bcprov-jdk16-146/src.zip!/" />
+    </SOURCES>
+  </library>
+</component>
